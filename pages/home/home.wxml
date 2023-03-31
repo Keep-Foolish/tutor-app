@@ -1,0 +1,12 @@
+<!--pages/home/home.wxml-->
+<swiper class="swiperContainer" indicator-dots>
+  <swiper-item>
+    <image src="/image/a.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/image/b.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="/image/c.jpg"></image>
+  </swiper-item>
+</swiper>

@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.swiperContainer{
+  height: 500 rem;
+  width: 750rem;
+  border-radius: 5rem;
+}
