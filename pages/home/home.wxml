@@ -1,5 +1,6 @@
 <!--pages/home/home.wxml-->
-<swiper class="swiperContainer" indicator-dots>
+<!-- 轮播图 -->
+<swiper class="swiperContainer" indicator-dots="true" circular="">
   <swiper-item>
     <image src="/image/a.jpg"></image>
   </swiper-item>
@@ -10,3 +11,11 @@
     <image src="/image/c.jpg"></image>
   </swiper-item>
 </swiper>
+
+<!-- 按钮 -->
+<view class="buttoncontainer">
+<view class="button">学生简历</view>
+<view>家长需求</view>
+<view>我的简历</view>
+<view>我的需求</view>
+</view>
