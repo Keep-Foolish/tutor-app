@@ -14,8 +14,8 @@
 
 <!-- 按钮 -->
 <view class="buttoncontainer">
-<view class="button">学生简历</view>
-<view>家长需求</view>
-<view>我的简历</view>
-<view>我的需求</view>
+<view class="button"><image src="/image/info.png"></image><text>简历挑选</text></view>
+<view class="button"><image src="/image/need.png"></image><text>需求市场</text></view>
+<view class="button"><image src="/image/myinfo.png"></image><text>我的简历</text></view>
+<view class="button"><image src="/image/myneed.png"></image><text>我的需求</text></view>
 </view>
