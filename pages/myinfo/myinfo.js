@@ -1,16 +1,13 @@
-// pages/home/home.js
+// pages/myinfo/myinfo.js
 Page({
+
   /**
    * 页面的初始数据
    */
   data: {
 
   },
-  tomyinfo(){
-    wx.navigateTo({
-      url: '/pages/myinfo/myinfo',
-    })
-  },
+  
   /**
    * 生命周期函数--监听页面加载
    */

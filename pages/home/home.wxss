@@ -13,22 +13,24 @@ swiper-item image{
 
 /* 按钮 */
 .buttoncontainer{
-  margin-top:150rpx;
+  margin-top: 75rpx;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  height: 100%
+  height: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .buttoncontainer image{
   width: 160rpx;
-  height:160px;
-  margin-top: 20rpx;
+  height: 160px;
+  margin-top: 30rpx;
 }
 
 .button{
   margin:20rpx,20rpx,20rpx,20rpx;
-  width: 40%;
+  width: 35%;
   height: 280rpx;
   display: flex;
   justify-content: space-around;
@@ -38,9 +40,10 @@ swiper-item image{
 }
 
 .button text{
-  margin-bottom: 50rpx;
+  margin-bottom: 25rpx;
 }
 
 .buttoncontainer view{
-  border: solid;
+  border: 2px solid #524e4e;
+  margin-bottom: 50rpx;
 }

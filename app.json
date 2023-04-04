@@ -3,8 +3,8 @@
     "pages/home/home",
     "pages/message/message",
     "pages/me/me",
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/info/info",
+    "pages/myinfo/myinfo"
   ],
   "window": {
     "backgroundTextStyle": "light",
